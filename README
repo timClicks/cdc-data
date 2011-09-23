@@ -1,0 +1,37 @@
+cdc-data
+========
+
+An effort to create a national register of Civil Defence Centres for New 
+Zealand. The repo (will) consist of a series of yaml file for each local
+authority, a processing script to generate a KML file from those    
+
+Adding data
+-----------
+
+If you would like to participate, open up your local area's .yaml file 
+and click 'Edit this file'. An editor will open up in your browser for
+you to begin. 
+
+Schema for each centre follows this format:
+
+    address:   the physical address (unenforced requirement) 
+    council:   the name of the responsible local authority
+    name:      a title
+    location:  the name of the BAU location, e.g. Karori School or Hagley Park
+    functions: the functions that are carried out here. See functions.
+    resources: a list of resources this centre has 
+    desc:      a description
+    wgs84:     WGS 84 coordinate pair
+
+Functions
+  welfare, registration, first aid, ...
+
+Resources
+  fresh water, blankets, emergency food, ...
+
+
+
+Licence
+=======
+
+These data are in the public domain.
