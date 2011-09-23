@@ -1,0 +1,406 @@
+-
+  address: 8 Linden Ave, Linden, Tawa, Wellington
+  council: &WCC Wellington City Council
+  name: 
+  site_name: Linden Social Centre
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - &WCCEM http://www.wellington.govt.nz/services/emergencymgmt/civildefence/centre-locations.html
+-
+  address: 62 Raroa Terrace, Greenacres, Tawa, Wellington
+  council: *WCC
+  name:
+  site_name: Greenacres Primary School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 6A Oxford Street, Tawa, Wellington
+  council: *WCC
+  site_name: Tawa Civil Defence Centre
+  location: Tawa School
+  desc: 
+  functions:
+  resources: 
+  wgs84:
+  sources:
+    - *WCCEM
+- 
+  address: 71A Redwood Avenue, Redwood, Tawa, Wellington
+  council: *WCC
+  name: 
+  site_name: Redwood School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: Cnr Jamaica Drive & Nassau Avenue, Tawa, Wellington
+  council: *WCC
+  name: 
+  site_name: Grenada North Park Pavilion
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 2 Mandeville Crescent, Grenada Village, Wellington
+  council: *WCC
+  name:
+  site_name: Grenada Village Hall
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 90 Churton Drive, Churton Park, Wellington
+  council: *WCC
+  name:
+  site_name: Churton Park School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+- 
+  address: 10 Morgan Street, Johnsonville, Wellington
+  council: *WCC
+  name: Johnsonville Civil Defence Centre
+  site_name: Johnsonville School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 97 Broderick Road, West Park, Johnsonville, Wellington
+  council: *WCC
+  name: 
+  site_name: West Park School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 200 Newlands Road, Newlands, Wellington
+  council: *WCC
+  name: 
+  site_name: Newlands School
+  desc: 
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 583 Ohariu Valley Road, Ohariu Valley, Wellington
+  council: *WCC
+  name:
+  site_name: Ohariu Village Hall 
+  desc:
+  functions:
+  resources:
+  wgs84:
+  - *WCCEM
+-
+  address: 110 Cashmere Avenue, Khandallah, Wellington
+  council: *WCC
+  name:
+  site_name: Cashere Avenue School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+- 
+  address: 45 Abbott Street, Ngaio, Wellington
+  council: *WCC
+  name:
+  site_name: Ngaio School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+- 
+  address: 21 Chartwell Drive, Crofton Downs, Wellington
+  council: *WCC
+  name: 
+  site_name: Crofton Downs Primary School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 2 Rose Street, Wadestown, Wellington
+  council: *WCC
+  name: 
+  site_name: Wadestown School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 14 Harbour View Road, Northland, Wellington
+  council: *WCC
+  name:
+  site_name: Northland School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: Newcomb Crescent, Karori, Wellington
+  council: *WCC
+  name:
+  site_name: St. Ninian's Church
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 19 Allington Road, Karori, Wellington
+  council: *WCC
+  name: 
+  site_name: Karori West School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 399 Makara Road, RD1, Makara, Wellington
+  council: *WCC
+  name: 
+  site_name: Makara School
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  address: 16 Kowhai Road, Kelburn, Wellington
+  council: *WCC
+  site_name: Kelburn Normal School
+  name:
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Thorndon Primary School
+  address: 19B Hobson Street, Thorndon, Wellington
+  council: *WCC
+  name:
+  desc:
+  functions:
+  resources:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Clifton Terrace Model School
+  address: 15 Clifton Terrace, CBD, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Te Aro School
+  address: 360 The Terrace, Te Aro, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Clyde Quay School
+  address: 27 Elizabeth Street, Mount Victoria, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Mount Cook School
+  address: 160 Tory Street, Mount Cook, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Brooklyn School
+  address: 58 Washington Avenue, Brooklyn, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Newtown School
+  address: 16 Mein Street, Newtown, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Berhampore School
+  address: 105 Britomart Street, Berhampore, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Island Bay School
+  address: 6 Thames Street, Island Bay, Wellington
+  council: *WCC
+  name: 
+  desc: Corner of Clyde & Thames Streets
+  resources:
+  functions:
+  wgs84:
+  sources: 
+    - *WCCEM
+-
+  site_name: Roseneath School
+  address: 13 Maida Vale Road, Roseneath, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Hataitai School
+  address: 2 Arawa Road, Hataitai, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Kilbirnie School
+  address: 72 Hamilton Road, Kilbirnie, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM 
+-
+  site_name: Houghton Valley School
+  address: 110 Houghton Bay Road, Houghton Valley, Wellington
+  council: *WCC
+  name: 
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Miramar Community Centre
+  address: 27 Chelsea Street, Miramar, Wellington
+  council: *WCC
+  name: 
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Worser Bay School
+  address: 168 Seatoun Heights Road, Worser Bay, Wellington
+  council: *WCC
+  name:
+  desc: 
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Seatoun School
+  address: 59 Burnham Street, Seatoun, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM
+-
+  site_name: Strathmore Community Centre
+  address: 108 Strathmore Avenue, Strathmore, Wellington
+  council: *WCC
+  name:
+  desc:
+  resources:
+  functions:
+  wgs84:
+  sources:
+    - *WCCEM

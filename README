@@ -12,22 +12,54 @@ If you would like to participate, open up your local area's .yaml file
 and click 'Edit this file'. An editor will open up in your browser for
 you to begin. 
 
+Example Record
+--------------
+
+
+    -
+      address:    23 Te Puke Street, Suburb, City
+      council:    Kiwi City Council
+      name:       Suburb Welfare Centre
+      site_name:  Suburb School
+      functions:
+        - registration
+        - first aid
+      resources:
+        - access.parking_available
+        - water.bottled
+      desc:   A small welfare centre available for enquires.
+      wgs84: -42.329,171.342
+      
+
 Schema for each centre follows this format:
 
     address:   the physical address (unenforced requirement) 
     council:   the name of the responsible local authority
     name:      a title
-    location:  the name of the BAU location, e.g. Karori School or Hagley Park
+    site_name: the name of the BAU location, e.g. Karori School or Hagley Park
     functions: the functions that are carried out here. See functions.
     resources: a list of resources this centre has 
-    desc:      a description
+    desc:      a description or other notes
     wgs84:     WGS 84 coordinate pair
 
-Functions
-  welfare, registration, first aid, ...
+Functions (incomplete)
 
-Resources
-  fresh water, blankets, emergency food, ...
+    welfare
+    registration
+    first aid
+
+Resources (incomplete)
+
+    access.parking_available
+    access.wheelchair_accessible
+    agency.winz
+    agency.council
+    agency.salvation_army
+    electricity.generator
+    welfare.blankets
+    welfare.clothing
+    sanitation.toilets
+    water.bottled
 
 
 
